@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/09/30 09:56:51.801.pas,C:\Users\PC\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\PC\Documents\RAD Studio\Projects\frmstartup_u.pas</Transaction>
+    <Transaction>2018/09/30 09:56:51.801.dfm,C:\Users\PC\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\PC\Documents\RAD Studio\Projects\frmstartup_u.dfm</Transaction>
+    <Transaction>2018/09/30 09:56:57.088.dproj,C:\Users\PC\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\PC\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/09/30 11:50:42.075.pas,C:\Users\PC\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\PC\Documents\RAD Studio\Projects\game_u.pas</Transaction>
+    <Transaction>2018/09/30 11:50:42.075.dfm,C:\Users\PC\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\PC\Documents\RAD Studio\Projects\game_u.dfm</Transaction>
+    <Transaction>2018/10/01 17:13:15.973.pas,C:\Users\PC\Documents\RAD Studio\Projects\frmstartup_u.pas=C:\Users\PC\Desktop\IT Prac\frmstartup_u.pas</Transaction>
+    <Transaction>2018/10/01 17:13:15.973.dfm,C:\Users\PC\Documents\RAD Studio\Projects\frmstartup_u.dfm=C:\Users\PC\Desktop\IT Prac\frmstartup_u.dfm</Transaction>
+    <Transaction>2018/10/01 19:33:56.228.pas,C:\Users\PC\Desktop\IT Prac\game_u.pas=</Transaction>
+    <Transaction>2018/10/01 19:33:56.228.dfm,C:\Users\PC\Desktop\IT Prac\game_u.dfm=</Transaction>
+    <Transaction>2018/10/01 21:28:18.662.pas,C:\Users\PC\Desktop\IT Prac\Unit1.pas=C:\Users\PC\Desktop\IT Prac\gms_u.pas</Transaction>
+    <Transaction>2018/10/01 21:28:18.662.dfm,C:\Users\PC\Desktop\IT Prac\Unit1.dfm=C:\Users\PC\Desktop\IT Prac\gms_u.dfm</Transaction>
+    <Transaction>2018/10/02 18:52:57.082.dproj,C:\Users\PC\Desktop\IT Prac\Project1.dproj=C:\Users\PC\Desktop\New folder\Project1.dproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="..\..\stuff"/>
+    <File Path="..\IT Prac"/>
+    <File Path="..\IT Prac\gms_u.pas"/>
+    <File Path="..\..\..\Desktop"/>
+    <File Path="..\..\IT Prac"/>
+    <File Path="..\..\IT Prac\frmstartup_u.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>

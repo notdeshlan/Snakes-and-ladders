@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/10/02 19:08:32.523.dproj,C:\Users\PC\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\PC\Desktop\IT Prac\New folder\snakesandladders_dpj.dproj</Transaction>
+    <Transaction>2018/10/17 21:50:24.069.pas,C:\Users\PC\Desktop\IT Prac\New folder\Unit3.pas=</Transaction>
+    <Transaction>2018/10/17 21:50:24.069.dfm,C:\Users\PC\Desktop\IT Prac\New folder\Unit3.dfm=</Transaction>
+    <Transaction>2018/11/03 16:25:52.938.pas,C:\Users\PC\Desktop\stuff\IT project\Unit4.pas=</Transaction>
+    <Transaction>2018/11/03 16:25:52.978.dfm,C:\Users\PC\Desktop\stuff\IT project\Unit4.dfm=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="frmstartup_u.pas"/>
+    <File Path="frmstartup_u.dfm"/>
+    <File Path="Unit2.pas"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="gms_u.pas"/>
+    <File Path="gms_u.dfm"/>
+    <File Path="Unit3.pas"/>
+    <File Path="Unit3.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
